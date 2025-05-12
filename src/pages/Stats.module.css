@@ -1,0 +1,25 @@
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+  }
+  
+  .filters {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  
+  .charts {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .chartBox {
+    background: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  

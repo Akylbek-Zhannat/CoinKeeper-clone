@@ -1,0 +1,21 @@
+.form {
+    background: #fff;
+    padding: 16px;
+    margin: 16px 0;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .row {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+  }
+  .buttons {
+    display: flex;
+    gap: 8px;
+  }
+  .error {
+    color: #c00;
+    margin-top: 8px;
+  }
+      

@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    gap: 16px;
+    padding: 12px 24px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .linkActive {
+    color: #007acc;
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 2px;
+  }
+  
