@@ -1,4 +1,4 @@
-#💰 CoinKeeper Clone – Personal Finance Management App
+# 💰 CoinKeeper Clone – Personal Finance Management App
 A full-stack personal finance management web application inspired by CoinKeeper.
 
 The application allows users to track their income and expenses, categorize transactions, analyze financial statistics, and manage their budget securely through authentication.
